@@ -7,7 +7,7 @@
 //
 
 import UIKit
-@testable import App
+import App
 
 class ViewController: UIViewController {
 
